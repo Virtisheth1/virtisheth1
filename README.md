@@ -1,4 +1,5 @@
 ## Elevate Your Insights with Virti Sheth's Repository
+Discover the repository: [Virti Sheth's GitHub](https://github.com/Virtisheth1?tab=repositories)
 
 Delve into a world of innovative data-driven solutions through Virti Sheth's diverse and impactful repository. With a Master's in Business Analytics from Santa Clara University and a rich background in Business Intelligence and Analytics, Virti brings a wealth of expertise to the table.
 
@@ -12,5 +13,4 @@ Beyond technical acumen, Virti embodies agile leadership, adaptability, and meti
 
 Unlock the door to innovation and strategic insight. Explore Virti Sheth's repository to witness a fusion of technical prowess, analytical finesse, and a knack for delivering impactful solutions that redefine the boundaries of data-driven decision-making.
 
-Discover the repository: [Virti Sheth's GitHub](https://github.com/Virtisheth1?tab=repositories)
 
